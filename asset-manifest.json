@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/oren_react/static/css/main.365c90d2.chunk.css",
+    "main.js": "/oren_react/static/js/main.bca36fd6.chunk.js",
+    "main.js.map": "/oren_react/static/js/main.bca36fd6.chunk.js.map",
+    "runtime-main.js": "/oren_react/static/js/runtime-main.23e4830a.js",
+    "runtime-main.js.map": "/oren_react/static/js/runtime-main.23e4830a.js.map",
+    "static/js/2.cf35a25e.chunk.js": "/oren_react/static/js/2.cf35a25e.chunk.js",
+    "static/js/2.cf35a25e.chunk.js.map": "/oren_react/static/js/2.cf35a25e.chunk.js.map",
+    "index.html": "/oren_react/index.html",
+    "static/css/main.365c90d2.chunk.css.map": "/oren_react/static/css/main.365c90d2.chunk.css.map",
+    "static/js/2.cf35a25e.chunk.js.LICENSE.txt": "/oren_react/static/js/2.cf35a25e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/oren_react/static/media/CERN_particles.f87e988e.png",
+    "static/media/oren_portrait.93e6058d.jpg": "/oren_react/static/media/oren_portrait.93e6058d.jpg",
+    "static/media/resume.301c6eff.pdf": "/oren_react/static/media/resume.301c6eff.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23e4830a.js",
+    "static/js/2.cf35a25e.chunk.js",
+    "static/css/main.365c90d2.chunk.css",
+    "static/js/main.bca36fd6.chunk.js"
+  ]
+}
