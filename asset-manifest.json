@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/oren_react/static/css/main.62856354.chunk.css",
-    "main.js": "/oren_react/static/js/main.5c89cc73.chunk.js",
-    "main.js.map": "/oren_react/static/js/main.5c89cc73.chunk.js.map",
+    "main.css": "/oren_react/static/css/main.2d9e9637.chunk.css",
+    "main.js": "/oren_react/static/js/main.b2833626.chunk.js",
+    "main.js.map": "/oren_react/static/js/main.b2833626.chunk.js.map",
     "runtime-main.js": "/oren_react/static/js/runtime-main.b4ade36d.js",
     "runtime-main.js.map": "/oren_react/static/js/runtime-main.b4ade36d.js.map",
     "static/js/2.50b10aa1.chunk.js": "/oren_react/static/js/2.50b10aa1.chunk.js",
     "static/js/2.50b10aa1.chunk.js.map": "/oren_react/static/js/2.50b10aa1.chunk.js.map",
     "index.html": "/oren_react/index.html",
-    "static/css/main.62856354.chunk.css.map": "/oren_react/static/css/main.62856354.chunk.css.map",
+    "static/css/main.2d9e9637.chunk.css.map": "/oren_react/static/css/main.2d9e9637.chunk.css.map",
     "static/js/2.50b10aa1.chunk.js.LICENSE.txt": "/oren_react/static/js/2.50b10aa1.chunk.js.LICENSE.txt",
     "static/media/oren_portrait.93e6058d.jpg": "/oren_react/static/media/oren_portrait.93e6058d.jpg",
     "static/media/resume.da7d25cc.pdf": "/oren_react/static/media/resume.da7d25cc.pdf",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.b4ade36d.js",
     "static/js/2.50b10aa1.chunk.js",
-    "static/css/main.62856354.chunk.css",
-    "static/js/main.5c89cc73.chunk.js"
+    "static/css/main.2d9e9637.chunk.css",
+    "static/js/main.b2833626.chunk.js"
   ]
 }
