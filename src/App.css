@@ -26,21 +26,20 @@
 .home{
 	margin-left: 15em;
 	height: 100%;
-	background-image: url("CERN_particles.png");
+	background-image: url("tel_aviv.jpg");
 	background-repeat: no-repeat;
 	background-color: black;
 	color: white;
 	background-size: 100% auto;
 	text-align: center;
 	transition: 500ms;
-
 }
 
 .textbox{
   background-color: lightgrey;
   min-width: 100%;
   min-height: 100vh;
-  background: rgba(0, 0, 90, 0.7);
+  background: rgba(0, 0, 90, 0.4);
   margin: auto;
   padding:30px;
 }
