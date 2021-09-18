@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oren_react/static/css/main.2d9e9637.chunk.css",
-    "main.js": "/oren_react/static/js/main.b2833626.chunk.js",
-    "main.js.map": "/oren_react/static/js/main.b2833626.chunk.js.map",
+    "main.js": "/oren_react/static/js/main.b1d7e383.chunk.js",
+    "main.js.map": "/oren_react/static/js/main.b1d7e383.chunk.js.map",
     "runtime-main.js": "/oren_react/static/js/runtime-main.b4ade36d.js",
     "runtime-main.js.map": "/oren_react/static/js/runtime-main.b4ade36d.js.map",
     "static/js/2.50b10aa1.chunk.js": "/oren_react/static/js/2.50b10aa1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b4ade36d.js",
     "static/js/2.50b10aa1.chunk.js",
     "static/css/main.2d9e9637.chunk.css",
-    "static/js/main.b2833626.chunk.js"
+    "static/js/main.b1d7e383.chunk.js"
   ]
 }
