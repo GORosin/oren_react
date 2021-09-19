@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oren_react/static/css/main.304c2fd1.chunk.css",
-    "main.js": "/oren_react/static/js/main.aa7ab0b2.chunk.js",
-    "main.js.map": "/oren_react/static/js/main.aa7ab0b2.chunk.js.map",
+    "main.js": "/oren_react/static/js/main.0172c6a3.chunk.js",
+    "main.js.map": "/oren_react/static/js/main.0172c6a3.chunk.js.map",
     "runtime-main.js": "/oren_react/static/js/runtime-main.b4ade36d.js",
     "runtime-main.js.map": "/oren_react/static/js/runtime-main.b4ade36d.js.map",
     "static/js/2.50b10aa1.chunk.js": "/oren_react/static/js/2.50b10aa1.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/excelero.3f8582ef.png": "/oren_react/static/media/excelero.3f8582ef.png",
     "static/media/oren_portrait.93e6058d.jpg": "/oren_react/static/media/oren_portrait.93e6058d.jpg",
     "static/media/resume.da7d25cc.pdf": "/oren_react/static/media/resume.da7d25cc.pdf",
-    "static/media/App.css": "/oren_react/static/media/tel_aviv.5a3103f5.jpg"
+    "static/media/App.css": "/oren_react/static/media/tel_aviv.5a3103f5.jpg",
+    "static/media/tel_aviv_selfie.45e423a3.jpg": "/oren_react/static/media/tel_aviv_selfie.45e423a3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b4ade36d.js",
     "static/js/2.50b10aa1.chunk.js",
     "static/css/main.304c2fd1.chunk.css",
-    "static/js/main.aa7ab0b2.chunk.js"
+    "static/js/main.0172c6a3.chunk.js"
   ]
 }
